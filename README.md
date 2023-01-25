@@ -1,2 +1,6 @@
-# MovieApp
-This is a file made to explain the importance of an app to a customer.
+A type system like TypeScript can detect many common errors via static analysis at build time.
+
+This reduces the chance of runtime errors in production.
+
+
+
