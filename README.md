@@ -3,4 +3,7 @@ A type system like TypeScript can detect many common errors via static analysis 
 This reduces the chance of runtime errors in production.
 
 
+Typescript
+
+
 
